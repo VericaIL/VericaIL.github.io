@@ -1,0 +1,70 @@
+body {
+    background: linear-gradient(skyblue, lightpink) ;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+#navigacija{
+    height: 30px;
+    width: 1400px;
+    background-color: white;
+    padding-left: 20px;
+}
+#navigacija a{
+    text-decoration: none;
+    color: deeppink;
+    font-weight: bolder;
+}
+#navigacija li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 1px;
+    padding-left: 117px;
+}
+#navigacija ul{
+    padding-left: 490px;
+}
+#self img{
+    float:right;
+    margin-right: 50x;
+    padding: 50px;
+    width: 254px;
+    height: 340px;
+    background-position: top;
+    background-repeat: no-repeat;
+    border-radius: 156px;
+}
+h1{
+    color: deeppink;
+    text-:250px;
+}
+#mesage1{
+    padding: 116px;
+    border: white;
+    border-style: dotted;
+    border-radius: 102px;
+    display: inline-block;
+    margin: 100px;
+}
+p{
+    color: white;
+    font-weight: bold;
+}
+
+#ftr{
+    height: 30px;
+    width: 1400px;
+    background-color: white;
+    padding-left: 20px;
+    margin-top:100px;
+}
+#ftr a{
+    text-decoration: none;
+    color: deeppink;
+    font-weight: bolder;
+}
+#ftr li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 1px;
+    padding-left: 38px;
+}

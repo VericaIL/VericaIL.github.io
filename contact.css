@@ -1,0 +1,49 @@
+body {
+    background: linear-gradient(skyblue, lightpink) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#navigacija{
+    height: 30px;
+    width: 1400px;
+    background-color: white;
+    padding-left: 20px;
+}
+#navigacija a{
+    text-decoration: none;
+    color: deeppink;
+    font-weight: bolder;
+}
+#navigacija li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 1px;
+    padding-left: 117px;
+}
+#navigacija ul{
+    padding-left: 490px;
+}
+.naslov{
+    color: white;
+}
+form{
+    padding: 50px;
+}
+#ftr{
+    height: 30px;
+    width: 1400px;
+    background-color: white;
+    padding-left: 20px;
+    margin-top:330px;
+}
+#ftr a{
+    text-decoration: none;
+    color: deeppink;
+    font-weight: bolder;
+}
+#ftr li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 1px;
+    padding-left: 38px;
+}
